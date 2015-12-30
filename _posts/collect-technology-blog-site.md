@@ -5,7 +5,8 @@ tags: collect
 > 本文为自己收集的技术博客网址,不断更新中...
 
 ## 大牛博客
-- [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) --- 阮一峰的网络日志
+- [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) --- 阮一峰的网络日志 [github](https://github.com/ruanyf)
+- [http://www.yinwang.org/](http://www.yinwang.org/) --- 王垠 [github](https://github.com/yinwang0)
 
 ## 架构
 - [http://timyang.net/](http://timyang.net/) --- 微博研发经理
