@@ -19,6 +19,8 @@ tags: collect
 ## redis
 - [http://redis.io/](http://redis.io/) --- redis官网（英文）
 - [http://redis.cn/](http://redis.cn/) --- redis官网（中文）
+- [http://try.redis.io/](http://try.redis.io/) --- redis在线命令
+- [http://redisdoc.com/](http://redisdoc.com/) --- redis命令参考
 - [http://www.yiibai.com/redis/](http://www.yiibai.com/redis/) --- redis教程
 
 ## git
