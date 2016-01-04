@@ -7,12 +7,17 @@ tags: collect
 ## 大牛博客
 - [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) --- 阮一峰的网络日志 [github](https://github.com/ruanyf)
 - [http://www.yinwang.org/](http://www.yinwang.org/) --- 王垠 [github](https://github.com/yinwang0)
+- [http://blog.zhaojie.me/](http://blog.zhaojie.me/) --- 老赵 [github](https://github.com/JeffreyZhao)
 
 ## 架构
 - [http://timyang.net/](http://timyang.net/) --- 微博研发经理
 
+## 前端
+- [http://www.cnblogs.com/rubylouvre/](http://www.cnblogs.com/rubylouvre/) --- 司徒正美 [github](https://github.com/RubyLouvre)
+
 ## php
-- [http://www.laruence.com/](http://www.laruence.com/) --- 惠新宸,PHP核心开发者,鸟哥.
+- [http://www.laruence.com/](http://www.laruence.com/) --- 惠新宸,PHP核心开发者,鸟哥.[github](https://github.com/laruence)
+
 - [http://www.imsiren.com/](http://www.imsiren.com/) --- 斯人，吴帅
 - [http://www.php-note.com/](http://www.php-note.com/) --- 钱途无梁
 
