@@ -4,6 +4,11 @@ tags: collect
 ---
 > 本文为自己收集的技术博客网址,不断更新中...
 
+## Google网址
+- [https://g.eeload.com/](https://g.eeload.com/)
+- [https://www.souguge.info](https://www.souguge.info/)
+- [https://gg.kfd.me/](https://gg.kfd.me/)
+
 ## 大牛博客
 - [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) --- 阮一峰的网络日志 [github](https://github.com/ruanyf)
 - [http://www.yinwang.org/](http://www.yinwang.org/) --- 王垠 [github](https://github.com/yinwang0)
