@@ -13,6 +13,7 @@ tags: collect
 - [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) --- 阮一峰的网络日志 [github](https://github.com/ruanyf)
 - [http://www.yinwang.org/](http://www.yinwang.org/) --- 王垠 [github](https://github.com/yinwang0)
 - [http://blog.zhaojie.me/](http://blog.zhaojie.me/) --- 老赵 [github](https://github.com/JeffreyZhao)
+- [http://blog.codingnow.com/](http://blog.codingnow.com/) --- 风云-前网易大牛级别人物
 
 ## 架构
 - [http://timyang.net/](http://timyang.net/) --- 微博研发经理
