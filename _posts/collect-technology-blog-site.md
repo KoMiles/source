@@ -14,6 +14,7 @@ tags: collect
 - [http://www.yinwang.org/](http://www.yinwang.org/) --- 王垠 [github](https://github.com/yinwang0)
 - [http://blog.zhaojie.me/](http://blog.zhaojie.me/) --- 老赵 [github](https://github.com/JeffreyZhao)
 - [http://blog.codingnow.com/](http://blog.codingnow.com/) --- 云风-前网易大牛级别人物
+- [http://www.bo56.com/](http://www.bo56.com/) --- 淘宝信海龙 [weibo](http://weibo.com/p/1005051644884037)
 
 ## 架构
 - [http://timyang.net/](http://timyang.net/) --- 微博研发经理
