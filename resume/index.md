@@ -2,118 +2,70 @@ title: 个人简历
 date: 2015-12-07 19:31:27
 ---
 
-# 联系方式
+王孔明
+====
 
-- 手机：18610582077
-- Email：komiles@163.com
-- QQ/微信号：wangkongmingle
+- 男， 汉族， 1989年3月生， 现居北京
 
----
+- 电话: 186-1058-2077
 
-# 个人信息
+- 邮箱: komiles@163.com
 
- - 王孔明/男/1989
- - 本科/安阳师范学院 计算机科学与技术
- - 工作年限：4年
- - 微博：[@Komiles](http://weibo.com/komiles)
- - 技术博客：http://komiles.github.io
- - Github：http://github.com/komiles
-
- - 期望职位：PHP高级程序员
- - 期望薪资：xx
- - 期望城市：北京
-
----
-
-# 工作经历
-
-## 宝宝树 （ 2015年3月 ~ 至今）
+- GitHub: github.com/komiles
 
 
-### 宝宝树孕育6.0
-6.0API
+项目经验
+--------
 
-### 宝宝树孕育6.1
-6.1API
+- 2015.12 - 今 **banshee** *(github.com/eleme/banshee)* Go
+饿了么业务接口的调用量、响应时间、错误数等指标的异常点监控和报警系统
+
+- 2014.09 - 今 **thriftpy** *(github.com/eleme/thriftpy)* Python
+Apache Thrift的Python实现, 实现thrift的Parser部分
+
+- 2015.09 - 今 **statsd-proxy** *(github.com/hit9/statsd-proxy)* C
+etsy/statsd的一致性哈希代理, 利用reuseport解决Nodejs无法使用多个udp socket复用同一端口的问题
+
+- 2014.07 - 2014.10 **node-ssdb, ssdb.py, lua-resty-ssdb** *(eleme/node-ssdb & hit9/ssdb.py & eleme/lua-resty-ssdb)* 
+Nodejs/Python/Lua
+NoSQL数据库服务器ssdb的Nodejs, Python, lua-ngx客户端实现
+
+- 2012.09 - 2013.07 **skylark** *(github.com/hit9/skylark)* Python
+支持mysql/sqlite3的Python轻量级ORM框架
+
+- 2013.02 - 2013.07 **rux** *(github.com/hit9/rux)*  Python, C
+极简飞快的静态博客生成器，用在个人的日记博客上
+
+- 2013.04 - 2013.07 **oo** *(github.com/hit9/oo)* Shell
+简洁易用的Go版本管理工具
+
+工作经历
+--------
+
+- 2014.03 - 今  **饿了么产品部平台架构组工程师**
+饿了么Python服务框架的开发和维护，包括服务容器、指标、日志、熔断等. 负责指标监控的开发和维护.
 
 
-### 宝宝树孕育6.2
-6.2API
+- 2013.07 - 2013.09 **知乎产品开发Python后端实习生**
+负责维护知乎图片、视频和头像上传服务，修补日常bug等。在知乎不仅学到了很多开发技巧，
+而且学会融入团队，也更加热爱提问、热于帮别人解决问题。
+
+教育背景
+--------
+
+- 2010.09 - 2014.07 哈尔滨工业大学， 信息系统与信息管理专业， 本科
+
+其它
+----
+
+- 爱好: 滑冰、羽毛球、旅游、写博客、写日记等
+
+- 特长: 作画、编程
+
+自我评价
+--------
+
+- 积极向上、热爱自由、崇尚开源、待人友善、富有激情
 
 
-## 孔夫子旧书网 （ 2013年3月 ~ 2015年3月 ）
-
-### 孔夫子拍卖网
-重构孔夫子拍卖网
-
-### 孔夫子艺术品拍卖专场
-开发拍卖专场
-
-## 雅酷时空 （ 2012年3月 ~ 2013年3月 ）
-
-### 雅酷网
-开发雅酷网
-
-
-
----
-以下均为我熟练使用的技能
-
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Laravel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-
----
-## 参考技能关键字
-
-- php(959)
-- mysql(525)
-- web(280)
-- linux(269)
-- css(246)
-- javascript(241)
-- html(196)
-- ajax(151)
-- jquery(120)
-- sql(105)
-- mvc(104)
-- lamp(91)
-- js(76)
-- apache(76)
-- xml(68)
-- unix(68)
-- div(67)
-- nginx(62)
-- thinkphp(56)
-- redis(52)
-- shell(49)
-- oop(41)
-- json(41)
-- memcache(38)
-- api(31)
-- svn(27)
-- python(27)
-- html5(26)
-- nosql(25)
-- smarty(23)
-- cms(21)
-- git(17)
-- memcached(17)
-- tcp(15)
-- lnmp(15)
-- webservice(8)
-- php5(8)
-- tp(8)
-- seo(5)
-- bootstrap(5)
-- cache(5)
-- github(4)
-- oa(4)
-- yaf(4)
-
----
+<footnote>Resumé Git Repository: https://github.com/hit9/resume.pdf</footnote>
