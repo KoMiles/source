@@ -11,61 +11,75 @@ date: 2015-12-07 19:31:27
 
 - 邮箱: komiles@163.com
 
-- GitHub: github.com/komiles
+- 博客：[http://wangkongming.cn](http://wangkongming.cn)
+
+- GitHub: [https://github.com/KoMiles](https://github.com/KoMiles)
 
 
 项目经验
 --------
 
-- 2015.12 - 今 **banshee** *(github.com/eleme/banshee)* Go
-饿了么业务接口的调用量、响应时间、错误数等指标的异常点监控和报警系统
+- 2016.07 - 2016.08  宝宝树专家答
+    - 负责用户支付和结算相关．包括微信支付，支付宝支付接口开发
+    - 支付和结算表机构设计，分账设计，以及给用户，专家结算．自动对账以及邮件预警
+    - 项目上线后，为宝宝树孕育App带来了20w左右的日活.
+    
 
-- 2014.09 - 今 **thriftpy** *(github.com/eleme/thriftpy)* Python
-Apache Thrift的Python实现, 实现thrift的Parser部分
+- 2015.09 - 2015.09  宝宝树孕育签到
+    - 签到API接口开发，签到逻辑设计.
+    - 项目上线后，用户粘性大大提高．由以前每天30w左右签到，到现在每天110w人签到
+    
 
-- 2015.09 - 今 **statsd-proxy** *(github.com/hit9/statsd-proxy)* C
-etsy/statsd的一致性哈希代理, 利用reuseport解决Nodejs无法使用多个udp socket复用同一端口的问题
 
-- 2014.07 - 2014.10 **node-ssdb, ssdb.py, lua-resty-ssdb** *(eleme/node-ssdb & hit9/ssdb.py & eleme/lua-resty-ssdb)* 
-Nodejs/Python/Lua
-NoSQL数据库服务器ssdb的Nodejs, Python, lua-ngx客户端实现
+- 2016.03 - 至今  宝宝树版本迭代
+    - 参与宝宝树App主要版本讨论和开发．API服务开发，API性能优化以及运营活动支持
+    - 一年内，DAU从140w增加到600w，翻了三倍多
+    
 
-- 2012.09 - 2013.07 **skylark** *(github.com/hit9/skylark)* Python
-支持mysql/sqlite3的Python轻量级ORM框架
+- 2014.07 - 2014.12  在线拍卖系统 [(http://www.kongfz.cn)](http://www.kongfz.cn/)
+    - 项目主要对以前的代码、框架、数据库进行重构，数据库做表拆分，以及读写分离
+    - 拍卖数据处理、拍卖专场管理、拍卖黑名单管理、拍卖留言管理，以及给孔网app项目提供接口服务。
+     
 
-- 2013.02 - 2013.07 **rux** *(github.com/hit9/rux)*  Python, C
-极简飞快的静态博客生成器，用在个人的日记博客上
 
-- 2013.04 - 2013.07 **oo** *(github.com/hit9/oo)* Shell
-简洁易用的Go版本管理工具
+- 2013.09 - 2015.03  孔夫子旧书网-- 其他项目开发
+    - 拍卖公司联盟   [http://pmgs.kongfz.com](http://pmgs.kongfz.com)
+    - 孔网图书资料库   [http://lib.kongfz.com](http://lib.kongfz.com)
+    - 孔夫子艺术品拍卖 [http://www.kongfz.cn/special/](http://www.kongfz.cn/special)
+    
+- 2012.06 - 2016.08  雅酷时空-- 项目开发
+
+    - 孔夫子艺术品拍卖 [http://www.kongfz.cn/special/](http://www.kongfz.cn/special)
+    - 雅酷卡官网  [http://www.yacol.com/]([http://www.yacol.com/)
+    - 首惠官网  [http://www.firstcard.com.cn/](http://www.firstcard.com.cn)
 
 工作经历
 --------
 
-- 2014.03 - 今  **饿了么产品部平台架构组工程师**
-饿了么Python服务框架的开发和维护，包括服务容器、指标、日志、熔断等. 负责指标监控的开发和维护.
+- 2015/03 -- 至今 __宝宝树__ PHP开发工程师
+        
+    宝宝树孕育App接口开发和维护．包括Api开发，Api性能优化，运营活动支持．
 
 
-- 2013.07 - 2013.09 **知乎产品开发Python后端实习生**
-负责维护知乎图片、视频和头像上传服务，修补日常bug等。在知乎不仅学到了很多开发技巧，
-而且学会融入团队，也更加热爱提问、热于帮别人解决问题。
+- 2013/04 -- 2015/03 __孔夫子旧书网__ PHP开发工程师
+        
+    对孔网系统进行代码重构，开发孔网App接口．
 
-教育背景
---------
 
-- 2010.09 - 2014.07 哈尔滨工业大学， 信息系统与信息管理专业， 本科
+- 2012/03 -- 2013/04 __雅酷网__ PHP开发工程师
+        
+    维护公司官网，开发新的官网．
 
-其它
+
+教育经历
 ----
+- 2008.09 -- 2012.06 
+- 安阳师范学院 | 计算机科学与技术 | 本科
 
-- 爱好: 滑冰、羽毛球、旅游、写博客、写日记等
-
-- 特长: 作画、编程
 
 自我评价
 --------
 
-- 积极向上、热爱自由、崇尚开源、待人友善、富有激情
+- 做事认真负责，有始有终，敢于承担不推脱责任、工作积极.
+- 与同事相处融洽，乐于学习新技术．
 
-
-<footnote>Resumé Git Repository: https://github.com/hit9/resume.pdf</footnote>
