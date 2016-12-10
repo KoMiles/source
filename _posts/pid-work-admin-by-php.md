@@ -5,17 +5,16 @@ tags:
 > php如何实现简单的进程管理?
 
 1. 首先定义一个要执行的文件`work.php`，比较简单，死循环输入当前的时间．当然你也可以自己写一个．
-```
+{% codeblock lang:php %}
 <?php
-while (true) {
-        echo date('Y-m-d H:i:s').PHP_EOL ;
-        sleep(3);
-
-    }
-```
-
+while (true)
+{
+    echo date('Y-m-d H:i:s').PHP_EOL ;
+    sleep(3);
+}
+{% endcodeblock %}
 2. 开始写进程管理文件`workProcess.php`，根据自己的需要进行优化．
-```
+{% codeblock lang:php %}
 <?php
 /**
  * 管理php进程 
@@ -168,7 +167,7 @@ class workProcess {
 
 workProcess::main($argv);
 
-```
+{% endcodeblock %}
 
 3. 程序执行
     - 启动5个进程：php workProcess.php work.php start 5
